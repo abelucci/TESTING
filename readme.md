@@ -2,8 +2,12 @@
 
 Instalar dependencias:
 
-`pip install **-r** requirements.txt`
+```
+pip install **-r** requirements.txt
+```
 
 Ejecutar reporte:
 
-`pytest **--html**=report.html **--self-contained-html**`
+```
+pytest --html=report.html --self-contained-html
+```
